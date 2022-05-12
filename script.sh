@@ -18,7 +18,7 @@ orgUrl="https://dev.azure.com/luisbonilla345"
 
 projectName="Test Project"
 
-exportPath="/Users/luisbonilla/Desktop"
+exportPath="$(pwd)"
 
 echo "Organization: $orgUrl"
 echo "Project: $projectName"
