@@ -1,15 +1,12 @@
 
 # Install Azure cli on macOs
-
 # brew update && brew install azure-cli
 
 # Add azure devops Extension
-
 # az extension add --name azure-devops
 
 
 # Login to azure account
-
 # az login --allow-no-subscriptions
 
 # Set variables
